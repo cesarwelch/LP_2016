@@ -1,0 +1,10 @@
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\bin\Debug\Lua_LP.exe.config
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\bin\Debug\Lua_LP.exe
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\bin\Debug\Lua_LP.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\obj\Debug\Lua_LP.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\obj\Debug\Lua_LP.Properties.Resources.resources
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\obj\Debug\Lua_LP.csproj.GenerateResource.Cache
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\obj\Debug\Lua_LP.exe
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\obj\Debug\Lua_LP.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\bin\Debug\DynamicLua.dll
+c:\users\cesar\documents\visual studio 2015\Projects\Lua_LP\Lua_LP\obj\Debug\Lua_LP.Form1.resources
